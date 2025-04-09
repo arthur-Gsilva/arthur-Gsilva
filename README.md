@@ -1,7 +1,7 @@
 ### Olá! Eu sou Arthur Gabriel 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurgabrielsilva/)
-[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arthurgsilva.netlify.app/)
+[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-nu-two-19.vercel.app/)
 
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-Gsilva&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
